@@ -1,2 +1,2 @@
-# Breast-cancer-AI
-This is a program to detect a cancer, using a data base and developed in R 
+# R-breast-cancer-IA
+Trained Neural Network and Decision Tree in R language that is capable of diagnosing breast cancer tumours based in imaging parameters. AI is implemented in Shiny web framework to make it easier to use (R, Shiny)
